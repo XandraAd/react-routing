@@ -3,12 +3,12 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>
+    
         <>
         <h1>Home Page</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea nemo, quos saepe, expedita quasi repellendus quibusdam sed perspiciatis facere vitae, reiciendis nam! Ratione, reiciendis ab dicta repellat distinctio voluptates nihil.</p>
         </>
-    </div>
+    
   )
 }
 
